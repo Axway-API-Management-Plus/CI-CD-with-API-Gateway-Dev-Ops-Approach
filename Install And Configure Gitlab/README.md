@@ -3,17 +3,17 @@
 
 This document is regarding the installation and configuration of GitLab.
 
-###Installation Process 
+### Installation Process 
 
-###a) Start by installing the following necessary dependencies using the yum package manager
+### a) Start by installing the following necessary dependencies using the yum package manager
 
-###Command to Execute -> yum install curl policycoreutils-python openssh-server
+### Command to Execute -> yum install curl policycoreutils-python openssh-server
 
-![installation1]( https://github.com/Axway-API-Management/CI-CD-with-API-Gateway-Dev-Ops-Approach/lib/images/git/installation1.PNG ) 
+![installation1]( https://github.com/Axway-API-Management-Plus/CI-CD-with-API-Gateway-Dev-Ops-Approach/lib/images/git/installation1.PNG ) 
 
-###b) Install Postfix service to send notification emails, and enable it to start at system boot
+### b) Install Postfix service to send notification emails, and enable it to start at system boot
 
-###Command to Execute -> yum install postfix
+### Command to Execute -> yum install postfix
 
 
 
