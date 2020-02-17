@@ -3,7 +3,7 @@
 
 This document is regarding the installation and configuration of GitLab.
 
-### Installation Process 
+## Installation Process 
 
 ### a) Start by installing the following necessary dependencies using the yum package manager
 
@@ -79,10 +79,11 @@ Command to Execute -> vi /var/opt/gitlab/gitlab-rails/etc/unicorn.rb
 
 Edit the following line - to change port 8080 - to - 28080
 
+![installation9]( https://github.com/Axway-API-Management-Plus/CI-CD-with-API-Gateway-Dev-Ops-Approach/blob/master/Install%20And%20Configure%20Gitlab/lib/images/git/installation9.PNG )
+
 Restart the gitlab-ctl service
 
 gitlab-ctl restart
-
 
 
 ![Axwaylogo]( https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png ) 
