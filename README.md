@@ -18,5 +18,4 @@ This document is regarding the full cycle CI-CD with API-Gateway. The idea is to
 	
 
 ![Axwaylogo]( https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png ) 
-
 ### Axway Team
