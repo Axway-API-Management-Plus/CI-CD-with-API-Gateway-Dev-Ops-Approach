@@ -8,13 +8,15 @@ CI (Continuous Integration) service is a part of team development that build and
 CD (Continuous Deployment) is a software service that places the changes of every code in the production which results in every day deployment of production.
 
 
-Note :-
+Goals :-
 
-    Increase efficiency by Team Development
+	Remove conflicts in Team Development & Increase efficiency of the Team.
 
-	Remove conflicts in Team Development
+	Automation testing at each development stage to perform regression and non-regression testing.
+	
+	Have a full governance on what is being deployment and validate using Policy studio and Gitlab.
+	
 
-	Automation testing at each development stage
 
 
 
