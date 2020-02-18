@@ -85,5 +85,6 @@ Note: The idea is to only do deployment once the merge request is accepted by th
 
 Hence when a new branch is created for the new API development then take an copy from master branch and then work on the new branch. Once completed you can create a merge request to merge new branch to master branch. The reviewer will check the merge request and after evaluation he will approve the merge request then Jenkins will make the deployment and after that SOAP-UI test cases will run and report will be generated.
 
+
 ![Axwaylogo]( https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png ) 
 ### Axway Team
