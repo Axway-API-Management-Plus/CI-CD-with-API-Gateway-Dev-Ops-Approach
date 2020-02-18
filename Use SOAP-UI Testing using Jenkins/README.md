@@ -29,7 +29,11 @@ g) Now use the testrunner here to Run SOAP-UI testcases and based on assertions 
 
 Command- 
 
-./testrunner.sh -a -f/root/jenkins/testcases/report/<report file name for SOAP-UI> /opt/SoapUI-5.5.0/<SOAP-UI project export in form of .xml> -r
+./testrunner.sh -a -f/root/jenkins/testcases/report/<report file name for SOAP-UI> /opt/SoapUI-5.5.0/<SOAP-UI project export in form of .xml>.xml -r
+
+In case your test case is in the GitRepo 
+ 
+./testrunner.sh -a -f/root/jenkins/testcases/report/<report file name for SOAP-UI>  /var/lib/jenkins/workspace/<RepoName>/<SOAP-UI project export in form of .xml>.xml -r
 
 ![installation4]( https://github.com/Axway-API-Management-Plus/CI-CD-with-API-Gateway-Dev-Ops-Approach/blob/master/Use%20SOAP-UI%20Testing%20using%20Jenkins/lib/images/soap-ui/installation4.PNG )
 
